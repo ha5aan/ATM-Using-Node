@@ -1,0 +1,17 @@
+{
+  "name": "atm-panaverse",
+  "version": "1.0.4",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+}
